@@ -1,0 +1,22 @@
+<head>
+<title>Exemple1</title>
+</head>
+<body>
+<?php      
+<table border="2">
+<tr>
+       <td>Nom</td>
+       <td>Prénom</td>
+</tr>
+<tr>
+       <td>Lerdorf</td>
+       <td>Rasmus</td>
+</tr>
+<tr>
+       <td>Computer</td>
+       <td>Jules</td>
+</tr>
+</table>
+?>
+</body>
+</html>
