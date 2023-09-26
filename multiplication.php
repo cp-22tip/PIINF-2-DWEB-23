@@ -5,13 +5,12 @@
 <meta name="viewport" content="width=device-with">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <style>
-       td, table{
+       th,td,table{
             border: 1px solid black;
            text-align: center;
         }
-       td { padding-left: 7px;
-       padding-right: 7px;
-       }
+       th, td{ width: 30px;}
+       th{background-color:lightgray;}
     </style>
 </head>
 <body>
@@ -19,9 +18,23 @@
 echo "<table>";
 for ($valeur1=1; $valeur1<=12; $valeur1++){
     echo "<tr>";
-    for($multi=1;$multi<=12;$multi++) {
+    if($valeur1 == 1){
+        echo "<th>";
+        echo "</th>";
+    }
+    else{
+        echo "<th>$valeur1";
+        echo "</th>";
+    }
 
-        echo "<td>".$valeur1*$multi."</td>";
+    for($multi=1;$multi<=12;$multi++) {
+        if($valeur1 == 1){
+            echo "<th>".$valeur1 * $multi;
+            echo "</th>";
+        }
+        else {
+            echo "<td>" . $valeur1 * $multi . "</td>";
+        }
     }
     echo "</tr>";}
 echo "</table>";

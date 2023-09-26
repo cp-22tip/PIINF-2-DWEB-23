@@ -5,12 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e78d11c2-3cc9-444d-ae41-df5042aa5c12" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/multiplication.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jquery/Ex10/mon-script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jquery/Ex12/mon-script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jquery/Ex2/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jquery/Ex3/mon-script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jquery/Ex4/mon-script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jquery/Ex9/mon-script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jquery/ex5/mon-script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jquery/ex6/mon-script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jquery/ex7/mon-script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jquery/ex8/mon-script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jquery/morpion/mon-script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Swiss/category.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Swiss/result.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bulletin/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bulletin/notes.inc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exerciceFormulaire.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice_2.1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice_2.2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice_2.3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice_2.4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice_tableau_1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercice_2.php" beforeDir="false" afterPath="$PROJECT_DIR$/exercice_2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercice_3.php" beforeDir="false" afterPath="$PROJECT_DIR$/exercice_3.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercice_4.php" beforeDir="false" afterPath="$PROJECT_DIR$/exercice_4.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercice_5.php" beforeDir="false" afterPath="$PROJECT_DIR$/exercice_5.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercice_6.php" beforeDir="false" afterPath="$PROJECT_DIR$/exercice_6.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiplication.php" beforeDir="false" afterPath="$PROJECT_DIR$/multiplication.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +39,19 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Swiss/exercicePage.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\wamp64\bin\php\php8.1.15\php.exe" />
   <component name="ProjectColorInfo">{
@@ -34,6 +64,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
@@ -42,9 +73,19 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\PIINF-2-DWEB-23\Jquery\morpion" />
+      <recent name="C:\wamp64\www\PIINF-2-DWEB-23\Jquery\Ex12" />
+      <recent name="C:\wamp64\www\PIINF-2-DWEB-23\Jquery\Ex10" />
+      <recent name="C:\wamp64\www\PIINF-2-DWEB-23\Jquery\Ex9" />
+      <recent name="C:\wamp64\www\PIINF-2-DWEB-23\Jquery\ex7" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,11 +95,36 @@
       <option name="presentableId" value="Default" />
       <updated>1692686461020</updated>
       <workItem from="1692686462054" duration="3792000" />
-      <workItem from="1692693093090" duration="2720000" />
+      <workItem from="1692693093090" duration="3139000" />
+      <workItem from="1692697089100" duration="9540000" />
+      <workItem from="1692942683920" duration="12143000" />
+      <workItem from="1693287259837" duration="23846000" />
+      <workItem from="1693546497932" duration="13114000" />
+      <workItem from="1693805788525" duration="17900000" />
+      <workItem from="1693891923290" duration="19551000" />
+      <workItem from="1694151194316" duration="12507000" />
+      <workItem from="1694756346389" duration="11595000" />
+      <workItem from="1695101762435" duration="18648000" />
+      <workItem from="1695360769524" duration="7773000" />
+      <workItem from="1695620003925" duration="73000" />
+      <workItem from="1695620085730" duration="47000" />
+      <workItem from="1695650520731" duration="1319000" />
+      <workItem from="1695706448664" duration="20596000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/bulletin/notes.inc.php</url>
+          <line>85</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

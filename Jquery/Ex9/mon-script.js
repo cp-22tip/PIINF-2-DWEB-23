@@ -1,0 +1,13 @@
+$(function (){
+    alert('formatage')
+    $('td').addClass("size")
+    alert('Inversion des cellules')
+        $('.rouge').css('color', 'green').css('background', 'yellow')
+        $('.vert').css('color', 'red').css('background', 'white')
+    alert('Ré-inversion des cellules')
+    $('.vert').css('color', 'green').css('background', 'yellow')
+    $('.rouge').css('color', 'red').css('background', 'white')
+    alert('Suppréssion des classes couleur')
+    $('td class').removeClass("vert")
+    $('td class').removeClass("rouge")
+})
