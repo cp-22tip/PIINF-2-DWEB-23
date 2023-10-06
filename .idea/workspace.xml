@@ -5,31 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e78d11c2-3cc9-444d-ae41-df5042aa5c12" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Jquery/Ex10/mon-script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jquery/Ex12/mon-script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jquery/Ex2/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jquery/Ex3/mon-script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jquery/Ex4/mon-script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jquery/Ex9/mon-script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jquery/ex5/mon-script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jquery/ex6/mon-script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jquery/ex7/mon-script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jquery/ex8/mon-script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jquery/morpion/mon-script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swiss/category.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swiss/result.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bulletin/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bulletin/notes.inc.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exerciceFormulaire.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercice_2.1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercice_2.2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercice_2.3.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercice_2.4.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercice_tableau_1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDO/check.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDO/js/inscription.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercice_2.php" beforeDir="false" afterPath="$PROJECT_DIR$/exercice_2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/multiplication.php" beforeDir="false" afterPath="$PROJECT_DIR$/multiplication.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PDO/inscription.php" beforeDir="false" afterPath="$PROJECT_DIR$/PDO/inscription.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Session/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session/veg.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swiss/result.php" beforeDir="false" afterPath="$PROJECT_DIR$/Swiss/result.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bulletin/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/bulletin/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +37,9 @@
     <setting file="file://$PROJECT_DIR$/Swiss/exercicePage.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\wamp64\bin\php\php8.1.15\php.exe" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -79,11 +65,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\PIINF-2-DWEB-23\PDO\js" />
       <recent name="C:\wamp64\www\PIINF-2-DWEB-23\Jquery\morpion" />
       <recent name="C:\wamp64\www\PIINF-2-DWEB-23\Jquery\Ex12" />
       <recent name="C:\wamp64\www\PIINF-2-DWEB-23\Jquery\Ex10" />
       <recent name="C:\wamp64\www\PIINF-2-DWEB-23\Jquery\Ex9" />
-      <recent name="C:\wamp64\www\PIINF-2-DWEB-23\Jquery\ex7" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -109,7 +95,12 @@
       <workItem from="1695620003925" duration="73000" />
       <workItem from="1695620085730" duration="47000" />
       <workItem from="1695650520731" duration="1319000" />
-      <workItem from="1695706448664" duration="20596000" />
+      <workItem from="1695706448664" duration="20597000" />
+      <workItem from="1695965583234" duration="10120000" />
+      <workItem from="1695978409908" duration="1162000" />
+      <workItem from="1696311111523" duration="10980000" />
+      <workItem from="1696336022008" duration="980000" />
+      <workItem from="1696570389879" duration="9852000" />
     </task>
     <servers />
   </component>

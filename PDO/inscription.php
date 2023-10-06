@@ -5,7 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <title>Cidisi - Games</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" >
+
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <!--- Jquery -->
+    <script src="https://code.jquery.com/jquery-3.2.1.js"></script>
+    <!--- Jquery validate -->
+    <script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.17.0/dist/jquery.validate.js"></script>
+    <!--- Bootstrap -->
+    <script src="https://maxcdn.booststrapcdn.com/bootstrap/3.3.7/js/bootstrap-theme.min.js"></script>
 </head>
 <body>
 <div class="container">
@@ -19,7 +26,7 @@
         Inscription au portail de jeux
     </div>
 <div class="panel-body">
-    <form id="inscription_form">
+    <form id="inscription_form" action="check.php" method="post">
         <div class="form-group row">
             <label for="nom_per" class="col-sm-2 col-form-label">Nom</label>
             <div class="col-sm-10">
@@ -41,13 +48,13 @@
         <div class="form-group row">
             <label for="password" class="col-sm-2 col-form-label">Mot de passe</label>
             <div class="col-sm-10">
-                <input type="text" class="form-control" id="password" name="password" placeholder="votre mot de passe">
+                <input type="password"  class="form-control" id="password" name="password" placeholder="votre mot de passe">
             </div>
         </div>
         <div class="form-group row">
-            <label for="password_conf" class="col-sm-2 col-form-label">Password <br>(confirmation)</label>
+            <label for="password_conf" class="col-sm-2 col-form-label" >Password <br>(confirmation)</label>
             <div class="col-sm-10">
-                <input type="text" class="form-control" id="password_conf" name="password_conf" placeholder="Confirmer votre mot de passe">
+                <input type="password" class="form-control" id="password_conf" name="password_conf" placeholder="Confirmer votre mot de passe">
             </div>
         </div>
         <div class="form-group row">
@@ -60,10 +67,10 @@
                 </div>
             </div>
             <div class="form-group row">
-                <div class="col-sm-2 col-sm-offset-8">
-                    <input type="submit" class="form-control input-sm btn-primary" id="submit_conf" name="submit-conf" value="S'inscrire">
+                <div class="col-sm-2 col-sm-offset-7">
+                    <input type="submit" class="form-control input-sm btn-primary" id="submit_conf" name="submit-conf" value="S'inscrire" >
                 </div>
-                <div class="col-sm-2">
+                <div class="col-sm-2 ">
                     <input type="reset" class="form-control input-sm btn-warning" id="reset_conf" name="reset_conf" value="Annuler">
                 </div>
             </div>
@@ -75,5 +82,6 @@
     </div>
 </div>
 </div>
+<script src="js/inscription.js"></script>
 </body>
 </html>

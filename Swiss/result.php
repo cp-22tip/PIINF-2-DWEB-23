@@ -29,7 +29,7 @@ echo "</pre>";
 //session_destroy();
 if(count($_SESSION['vols'] )>= 2){
     session_destroy();
-}
+}c
 ?>
 <a href="Swiss.php">Réserver un vol retour</a>
 <br>
